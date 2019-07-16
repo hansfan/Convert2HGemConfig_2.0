@@ -13,16 +13,15 @@ namespace Convert2HGemConfig
         {
 
 
-            if (args.Length != 2)
-            {
-                Console.WriteLine("Please,key in InputFullPath and OutputFullPath.");
-            }
-            else
+            if (args.Length == 1)
             {
                 string inputPath = args[0].Trim().ToString();
 
                 MainProcess(inputPath);
-
+            }
+            else
+            {              
+                Console.WriteLine("Please,key in InputFullPath .");
 
             }
 

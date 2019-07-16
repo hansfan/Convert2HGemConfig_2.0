@@ -4,3 +4,9 @@ C:\Users\Hans\documents\visual studio 2013\Projects\Convert2HGemConfig_2.0\Conve
 C:\Users\Hans\documents\visual studio 2013\Projects\Convert2HGemConfig_2.0\Convert2HGemConfig_2.0\obj\Release\Convert2HGemConfig_2.0.csprojResolveAssemblyReference.cache
 C:\Users\Hans\documents\visual studio 2013\Projects\Convert2HGemConfig_2.0\Convert2HGemConfig_2.0\obj\Release\Convert2HGemConfig_2.0.exe
 C:\Users\Hans\documents\visual studio 2013\Projects\Convert2HGemConfig_2.0\Convert2HGemConfig_2.0\obj\Release\Convert2HGemConfig_2.0.pdb
+D:\github\Convert2HGemConfig_2.0\Convert2HGemConfig_2.0\bin\Release\Convert2HGemConfig_2.0.exe.config
+D:\github\Convert2HGemConfig_2.0\Convert2HGemConfig_2.0\obj\Release\Convert2HGemConfig_2.0.exe
+D:\github\Convert2HGemConfig_2.0\Convert2HGemConfig_2.0\obj\Release\Convert2HGemConfig_2.0.pdb
+D:\github\Convert2HGemConfig_2.0\Convert2HGemConfig_2.0\bin\Release\Convert2HGemConfig_2.0.exe
+D:\github\Convert2HGemConfig_2.0\Convert2HGemConfig_2.0\bin\Release\Convert2HGemConfig_2.0.pdb
+D:\github\Convert2HGemConfig_2.0\Convert2HGemConfig_2.0\obj\Release\Convert2HGemConfig_2.0.csprojResolveAssemblyReference.cache
